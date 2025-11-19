@@ -1,4 +1,4 @@
-````markdown
+
 # AI Engineer Basic Challenge  
 ## Tool-Calling AI Chat App (RAG + 4 Capabilities)
 
