@@ -44,6 +44,8 @@ You may use any UI libraries/components you like, as long as the required elemen
 - A chat input area at the bottom:
   - Text input
   - Send button (or Enter key to send)
+  Example of Chat box and Chat Controls pop up:
+  ChatwithCapabilitiesUI.png
 
 #### 3.2 File Upload + RAG (ChromaDB)
 
